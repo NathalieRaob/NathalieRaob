@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NathalieRaob
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Java and practicing JS and Python
+- 👀 I’m interested in Software engineering, Web design and Artificial Intelligence
+- 🌱 I’m currently learning Java, JavaScript and Python
 - 💞️ I’m looking to collaborate on any project using Java, Python or JavaScript
 - 📫 How to reach me: linkedin.com/in/nathalie-raobimanana-0a57741a8 
 
